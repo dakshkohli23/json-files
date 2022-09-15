@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+	"EpId": "fw6kfeozv255",
     "name": {
       "english": "Bulbasaur",
       "japanese": "フシギダネ",
@@ -21,6 +22,7 @@
   },
   {
     "id": 2,
+	"EpId": "5htnqb8104q1",
     "name": {
       "english": "Ivysaur",
       "japanese": "フシギソウ",
