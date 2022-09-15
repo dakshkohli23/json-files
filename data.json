@@ -3,24 +3,28 @@
         "epId": "001",
         "dealerName": "Tesla of Los Angeles",
         "model": "Model X",
-        "signStatus": "Out for signature"
+        "signStatus": "Out for signature",
+		"url": "https://www.serebii.net/pokemongo/pokemon/001.png"
     },
     {
         "epId": "002",
         "dealerName": "Tesla of Los Angeles",
         "model": "Model S",
-        "signStatus": "Out for signature"
+        "signStatus": "Out for signature",
+		"url": "https://www.serebii.net/pokemongo/pokemon/002.png"
     },
     {
         "epId": "003",
         "dealerName": "Tesla of Los Angeles",
         "model": "Model 3",
-        "signStatus": "Out for signature"
+        "signStatus": "Out for signature",
+		"url": "https://www.serebii.net/pokemongo/pokemon/003.png"
     },
     {
         "epId": "004",
         "dealerName": "Tesla of Los Angeles",
         "model": "Model T",
-        "signStatus": "Unsigned"
+        "signStatus": "Unsigned",
+		"url": "https://www.serebii.net/pokemongo/pokemon/004.png"
     }
 ]
