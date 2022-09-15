@@ -3,46 +3,64 @@
    {
       "id": 001,
       "name": "Bulbasaur",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0001_000_mf_n_00000000_f_n.png"
     },
     {
     	"id": 002,
       "name": "Ivyasaur",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0002_000_mf_n_00000000_f_n.png"
     },
     {
     	"id": 003,
       "name": "Venusaur",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0003_000_fd_n_00000000_f_n.png"
     },
     {
     	"id": 004,
       "name": "Charmander",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0004_000_fd_n_00000000_f_n.png"
     },
     {
     	"id": 005,
       "name": "Charmeleon",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0005_000_fd_n_00000000_f_n.png"
     },
     {
     	"id": 006,
       "name": "Charizard",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0006_000_fd_n_00000000_f_n.png"
     },
     {
     	"id": 007,
       "name": "Squirtle",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0007_000_fd_n_00000000_f_n.png"
     },
     {
     	"id": 008,
       "name": "Wartortle",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0008_000_fd_n_00000000_f_n.png"
     },
     {
     	"id": 009,
       "name": "Blastoise",
+	  "desc": ,
+	  "tags": ,
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0009_000_fd_n_00000000_f_n.png"
     }
   ]
