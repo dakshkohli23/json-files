@@ -1,67 +1,49 @@
 {
 "gallery": [
    {
-      "id": 0,
+      "id": 001,
       "name": "Bulbasaur",
-      "desc": "Art party skateboard meggings plaid tacos, sint echo park ex voluptate mixtape. Single-origin coffee fugiat tote bag, celiac messenger bag quinoa voluptate.",
-      "tags": ["Cobweb", "Tree", "Spider", "Moss", "Nature"],
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0001_000_mf_n_00000000_f_n.png"
     },
     {
-    	"id": 1,
+    	"id": 002,
       "name": "Ivyasaur",
-      "desc": "Est lo-fi eiusmod nulla jean shorts cred. Officia 8-bit adipisicing paleo, eiusmod shabby chic mlkshk cliche thundercats consectetur ennui.",
-      "tags": ["Hills", "Nature", "Forest", "Moutains", "Field"],
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0002_000_mf_n_00000000_f_n.png"
     },
     {
-    	"id": 2,
+    	"id": 003,
       "name": "Venusaur",
-      "desc": "Laborum velit id salvia, vegan readymade consequat tumblr fanny pack cold-pressed pop-up. Cardigan odio VHS velit hoodie. Tempor proident accusamus deep v cupidatat hell of.",
-      "tags": ["City", "Skyline", "Building", "Skyscraper", "Summer"],
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0003_000_fd_n_00000000_f_n.png"
     },
     {
-    	"id": 3,
-      "name": "Forest",
-      "desc": "Everyday carry tempor man braid roof party, chicharrones copper mug retro officia plaid beard fanny pack listicle. Actually gochujang squid et knausgaard.",
-      "tags": ["Forest", "Lake", "Rocks", "Nature", "Mountain"],
+    	"id": 004,
+      "name": "Charmander",
       "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0004_000_fd_n_00000000_f_n.png"
     },
     {
-    	"id": 4,
-      "name": "Sea",
-      "desc": "Exercitation pop-up pariatur letterpress, kitsch quis anim aute godard air plant. Pok pok af la croix sunt lo-fi banjo, hot chicken offal neutra small batch qui readymade VHS gochujang non.",
-      "tags": ["Sea", "Ocean", "Waves", "Surf", "Blue"],
-      "src": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/735173/gallery-5.jpg"
+    	"id": 005,
+      "name": "Charmeleon",
+      "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0005_000_fd_n_00000000_f_n.png"
     },
     {
-    	"id": 5,
-      "name": "Sunset",
-      "desc": "Tilde pabst bicycle rights roof party. Readymade aute crucifix messenger bag fixie, yr tacos qui pop-up truffaut succulents ut. Adipisicing cronut nostrud meditation wolf polaroid.",
-      "tags": ["Sunset", "Nature", "Cactus", "Desert", "Grass"],
-      "src": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/735173/gallery-6.jpg"
+    	"id": 006,
+      "name": "Charizard",
+      "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0006_000_fd_n_00000000_f_n.png"
     },
     {
-    	"id": 6,
-      "name": "Branches",
-      "desc": "Woke freegan jianbing vice letterpress eiusmod. Irony poke air plant, echo park migas chia marfa put a bird on it farm-to-table celiac pickled blog succulents cillum helvetica.",
-      "tags": ["Branches", "Bush", "Nature", "Tree", "Leaf"],
-      "src": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/735173/gallery-7.jpg"
+    	"id": 007,
+      "name": "Squirtle",
+      "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0007_000_fd_n_00000000_f_n.png"
     },
     {
-    	"id": 7,
-      "name": "Bridge",
-      "desc": "Tbh hashtag snackwave normcore incididunt cillum. Slow-carb normcore aliqua, listicle magna air plant microdosing locavore pitchfork seitan +1 cronut selfies stumptown fam.",
-      "tags": ["Bridge", "River", "City", "Dusk", "Fog"],
-      "src": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/735173/gallery-8.jpg"
+    	"id": 008,
+      "name": "Wartortle",
+      "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0008_000_fd_n_00000000_f_n.png"
     },
     {
-    	"id": 8,
-      "name": "Lake",
-      "desc": "Meggings PBR&B waistcoat pinterest excepteur aliqua. Gentrify thundercats intelligentsia consectetur, semiotics pork belly pop-up vaporware fam laboris austin 8-bit roof party.",
-      "tags": ["Lake", "Water", "Forest", "Hills", "Deck"],
-      "src": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/735173/gallery-9.jpg"
+    	"id": 009,
+      "name": "Blastoise",
+      "src": "https://projectpokemon.org/images/sprites-models/homeimg/poke_capture_0009_000_fd_n_00000000_f_n.png"
     }
   ]
 }
